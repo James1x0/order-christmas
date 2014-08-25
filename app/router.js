@@ -22,11 +22,6 @@ Router.map(function() {
   });
 
   this.route('login');
-  this.route('order/status');
-  this.route('admin/orders');
-  this.route('admin/products');
-  this.route('admin/products/new');
-  this.route('admin/products/edit');
 });
 
 export default Router;
